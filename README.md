@@ -4,12 +4,17 @@ Tic Tac Toe is a simple two-player strategy game played on a 3×3 grid. The game
  # Features:
  
 Two-player mode
+
 Real-time board display
+
 Win & draw detection
+
 Input validation
+
 Simple and user-friendly interface
 
 # Technologies Used:
 
 Java / Python / C++ (Edit according to your language)
+
 Console-based implementation
